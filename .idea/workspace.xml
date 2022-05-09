@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079a0418-042b-4f12-9f1b-6dc97e66b4d0" name="Changes" comment="asd">
-      <change beforePath="$PROJECT_DIR$/src/TwoSums/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSums/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="079a0418-042b-4f12-9f1b-6dc97e66b4d0" name="Changes" comment="asd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652130023456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="asd">
+      <created>1652130480646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652130480646</updated>
+    </task>
+    <task id="LOCAL-00003" summary="asd">
+      <created>1652130614762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652130614762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
